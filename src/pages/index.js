@@ -23,7 +23,7 @@ class IndexPage extends React.Component {
         </h1>
         <p>Welcome to my photo blog!</p>
         <p>
-          I'm currently learning photography following the
+          I'm currently learning photography following the fantastic (and free!)
           <a href='https://ayearwithmycamera.com/'> A Year With My Camera </a>
           course and I'll be posting my a selection of my photos on my blog
           here, hopefully there'll be a noticeable improvement as I learn!

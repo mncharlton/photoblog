@@ -1,7 +1,7 @@
 ---
 title: Aperture
 date: "2020-04-11"
-description: "A using aperture settings to increase and decrease the depth of field"
+description: "Using aperture settings to increase and decrease the depth of field"
 ---
 
 Learning about using aperture to control the depth of field in photos.

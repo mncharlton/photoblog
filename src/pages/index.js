@@ -25,8 +25,9 @@ class IndexPage extends React.Component {
         <p>
           I'm currently learning photography following the fantastic (and free!)
           <a href='https://ayearwithmycamera.com/'> A Year With My Camera </a>
-          course and I'll be posting my a selection of my photos on my blog
-          here, hopefully there'll be a noticeable improvement as I learn!
+          course and I'll be using this blog to make notes as I go, as well as
+          posting my a selection of my photos, hopefully there'll be a
+          noticeable improvement as I learn!
         </p>
         <Link to="/blog/">
           <Button marginTop="35px">Go to Blog</Button>

@@ -21,7 +21,7 @@ class IndexPage extends React.Component {
             👋
           </span>
         </h1>
-        <p>Welcome to my photo blog!  📷</p>
+        <p>Welcome to my photo blog! 📷</p>
         <p>
           I'm currently learning photography following the fantastic (and free!)
           <a href='https://ayearwithmycamera.com/'> A Year With My Camera </a>

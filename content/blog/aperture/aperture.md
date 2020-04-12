@@ -41,6 +41,6 @@ This week was all about learning how to use the aperture settings to control the
 
 ### My notes
   - Aperture is the fx.x number (eg f5.6, f22, etc)
-  - The smaller the number, the smaller the depth of field (and so the background blurs)
   - The smaller the number after the f the *larger* the aperture
   - The larger the number after the f the *smaller* the aperture
+  - The smaller the number/larger the aperture, the smaller the depth of field (and so the background blurs)

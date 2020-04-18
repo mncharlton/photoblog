@@ -18,7 +18,7 @@ This week was all about learning how to use theshutter speed settings to change 
 
 | Speed: 1/2 | Speed: 1/2000 |
 | ---- | ----|
-| ![Wind thing 1/2](./images/Wingthing2.JPG) | ![Wind thing 1/2000](./images/Windthing2000.JPG) |
+| ![Wind thing 1/2](./images/Windthing2.JPG) | ![Wind thing 1/2000](./images/Windthing2000.JPG) |
 
 #### Flame
 

@@ -8,6 +8,12 @@ This week was all about learning how to use theshutter speed settings to change 
 
 ### This weeks photos
 
+#### Kettlebell Swings
+
+| Speed: 1/20 | Speed: 1/2000 |
+| ---- | ---- |
+| ![Kettlebell 1/20](./images/kettlebell20.JPG) | ![Kettlebell  1/2000](./images/kettlebell2000.JPG) |
+
 #### Leaves in the wind
 
 | Speed: 1/10 | Speed: 1/2000 |

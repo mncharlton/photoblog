@@ -34,5 +34,3 @@ Some more photos I took this week! (w/c 13th April)
 ![Lego mosaic](./images/photo.jpeg)
 
 ![arty garden mosaic](./images/photo-2.jpeg)
-
-

@@ -25,3 +25,5 @@ Some more photos I took this week! (w/c 27th April)
 ![park7](./images/DSC_0535.JPG)
 
 ![park8](./images/DSC_0542.JPG)
+
+![collage](./images/IMG_0036.JPG)

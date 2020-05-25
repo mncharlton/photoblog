@@ -7,7 +7,7 @@ description: "Studying depth of field with Aperture!"
 Keeping the focus on the same minifig (Han), changing the aperture and looking at the affect it has on the depth of field.
 
 
-#### Aperture of 3.5
+#### Photos
 
 | Aperture | Photo | Note |
 | ---- | ---- | --- |
